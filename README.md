@@ -52,7 +52,7 @@ This guide walks you through setting up **osTicket**, a free help desk system, o
 
 ### Step 3: Install PHP Manager
 - Download and install PHP Manager. Accept all terms.  
-  <img src="https://i.imgur.com/pmwpPEu.png" height="75%" width="100%" />
+  <img src="https://i.imgur.com/aFfUwvS.png" height="75%" width="100%" />
 
 ---
 
